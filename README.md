@@ -31,7 +31,7 @@ After passing these values to Pages Function, this class will auto assign pages,
 
 And in Page links Just put like:-
 
-<ul>
+#### <ul>
 											<li class="prev disabled">
 												<a href="list.php?start=<?php echo $first;?>">
 													<i class="icon-double-angle-left"></i>First
